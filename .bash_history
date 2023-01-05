@@ -328,3 +328,34 @@ git push -u origin main
 git rev-parse --git-dir
 git remote -v
 git remote rm origin
+clear
+echo "# my-nvim-config" >> README.md
+git init
+git add README.md
+git commit -m "first commit"0.1.0"
+git commit -m "0.1.0"
+git branch -M main
+git remote add origin git@github.com:Girax93/my-nvim-config.git
+git push -u origin main
+ssh -T git@https://github.com/Girax93/my-nvim-config
+ssh -T git@github.com:Girax93/my-nvim-config.git
+ls ~/.ssh
+ssh-keygen -t rsa -b 4096 -C "personal@aribenjamin.net"
+git push -u origin main
+git status
+git push -u origin main
+git status
+git add .
+git status
+git commit -m "0.1.0"
+git push
+git pull
+git push
+ls
+rm francinette/
+rm -f francinette/
+rm -force francinette
+rm --help
+clear
+ls
+rm -r francinette/
