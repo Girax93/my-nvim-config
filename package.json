@@ -1,0 +1,11 @@
+{
+  "name": "agrawe",
+  "version": "1.0.0",
+  "description": "My Home Repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ari Benjamin Gråwe",
+  "license": "ISC"
+}
